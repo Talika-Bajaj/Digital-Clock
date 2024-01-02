@@ -1,0 +1,47 @@
+@media screen and (max-width: 840px) {
+    #clock {
+        font-size: 115px;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    #clock {
+        font-size: 85px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    #clock {
+        font-size: 75px;
+        padding: 35px 0;
+        /* border-width: 12px; */
+    }
+}
+
+@media screen and (max-width: 540px) {
+    h2 {
+        font-size: 42px;
+    }
+    
+    #clock {
+        font-size: 62px;
+        padding: 30px 0;
+        /* border-width: 8px; */
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #clock {
+        font-size: 48px;
+        padding: 25px 0;
+        border-width: 12px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    #clock {
+        font-size: 42px;
+        padding: 25px 0;
+        border-width: 12px;
+    }
+}
